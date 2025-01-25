@@ -17,7 +17,7 @@ The goal of this analysis is to improve sales, enhance customer retention, and s
 1. I conducted exploratory data analysis (EDA) to gain insights into the dataset using Excel.  
 2. I imported the dataset into Power Query to identify any inconsistencies or errors, checking each column for validity or missing data.  
 3. I changed the *TECH* TO *TECHNOLOGY* to group them into the same category in the category name column. 
-4. I standardized the *SHIPPING TYPE* field by changing entries labeled *LATE * and *LATE* to *LATE DELIVERY*.  
+4. I standardized the *SHIPPING TYPE* field by changing entries labeled *LATE * and *LATE* to LATE DELIVERY.  
 5. I modified columns by separating *TIME* from *OTHER DATE*.   
 6. I renamed *HOME* to *HOME OFFICE* for consistency.  
 8. I Corrected *FURNITURES* to *FURNITURE* for proper categorization.
